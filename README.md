@@ -17,4 +17,12 @@ This application uses React to create its user interface.  It uses JWT to authen
 
 ## Usage
 
+From the home page, users can access a public database of food trucks including their schedules and location.  To view additional detail about each food truck, click on the name of the food truck you would like to view.
+
+As a food truck owner, users can sign into a profile by clicking the 'log in' option on the top right corner.  New users without an account will be prompted to create a new account, or can directly access the 'sign up' form from the home page.
+
+Once in the 'sign up' form, a food truck owner can enter the name, location, and open times of their business.  Once completed, they can then submit their information, which will be logged in the public database for other users to access.
+
+## Credits
+
 
